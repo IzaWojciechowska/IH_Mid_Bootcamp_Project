@@ -33,12 +33,12 @@ In a nutshell, my findings include:
 - SaYoPillow Dataset exploration revealing strong relationships between sleep duration, stress levels, heart rate, and sleep instability.
 
 ## Project Execution
-1. **Data Cleaning and Wrangling:**
-2. **EDA (Exploratory Data Analysis):**
-3. **Data Processing:**
-4. **Modeling and Validation:**
-5. **Reporting and Insights:**
-6. **Hypothesis Testing:**
+1. **Data Cleaning and Wrangling**
+2. **EDA (Exploratory Data Analysis)**
+3. **Data Processing**
+4. **Modeling and Validation**
+5. **Reporting and Insights**
+6. **Hypothesis Testing**
 
 ## Conclusion
 This project has been a journey into the interesting dynamics of sleep, stress, and lifestyle. Challenges were met, lessons learned, and the journey resulted in a deeper understanding of the subject matter. Grateful for the guidance received throughout this work.
