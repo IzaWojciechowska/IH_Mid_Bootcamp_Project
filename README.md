@@ -22,7 +22,7 @@ This project delves into the connections between sleep, lifestyle, and stress. L
 - A folder containing analysis that didn't make it into the final project for transparency.
 
 ## Tableau Visualizations
-You can explore the visualizations on [Tableau Public](Tableau_Public_Link) to gain more insights about the data.
+You can explore the visualizations on [Tableau Public]([Tableau_Public_Link](https://public.tableau.com/app/profile/izabella.wojciechowska/viz/Mid-Bootcamp-Project-Ironhack/Sheet1)) to gain more insights about the data.
 
 ## Presentation Video
 To my amazing teaching/mentor team - presentation on [Google Drive](Presentation_Google_Drive_Link)
