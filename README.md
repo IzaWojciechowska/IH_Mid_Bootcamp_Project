@@ -1,5 +1,5 @@
 # Mid-Bootcamp Project for Ironhack
-# "Sleep and its Relationships with Lifestyle and Stress Analysis"
+# "Sleep and its Relationships with Lifestyle and Stress - Analysis"
 
 ## Project Overview
 This project delves into the connections between sleep, lifestyle, and stress. Leveraging Python, I conducted an analysis using two datasets: "Sleep Health and Lifestyle" Dataset and "SaYoPillow" Dataset.
