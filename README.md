@@ -25,7 +25,7 @@ This project delves into the connections between sleep, lifestyle, and stress. L
 You can explore the visualizations on [Tableau Public](https://public.tableau.com/app/profile/izabella.wojciechowska/viz/Mid-Bootcamp-Project-Ironhack/Sheet1) to gain more insights about the data.
 
 ## Presentation Video
-To my amazing teaching team --> presentation on [Google Drive](Presentation_Google_Drive_Link)  :)
+To my amazing teaching team --> presentation on [Google Drive](https://drive.google.com/file/d/1ioCiPMdC9oVwlwE2LNv73fXVGhpX1imC/view?usp=sharing)  :)
 
 ## Analysis Highlights
 In a nutshell, my findings include:
